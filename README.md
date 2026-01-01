@@ -38,3 +38,12 @@ Melo extends this engine with:
 
 Learn more:
 👉 https://www.bogaisapty.com
+
+
+---
+
+### About
+Pocket Analyst is an open-source analytical engine built by **Bogaisa Pty Ltd**.
+
+If you want a visual, hosted, and scalable version of these insights,
+explore **Melo** → https://www.bogaisapty.com
